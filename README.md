@@ -1,5 +1,5 @@
 # Pippo
-Example directory to demonstrate using Git &amp; GitHub to the Bocedi group.
+Example directory to demonstrate using Git &amp; GitHub to the Bocedi group, presumably during our lab meeting on November 16th.
 
 # About Pippo
 *Modify this text with your favourite text editor, then share your proposed changes with Git.*
