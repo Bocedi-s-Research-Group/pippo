@@ -7,7 +7,7 @@ Example directory to demonstrate using Git &amp; GitHub to the Bocedi group, pre
 Pippo (short for Filippo) is the italian name of the character Goofy. 
 Extract from the [Wikipedia article](https://en.wikipedia.org/wiki/Goofy) about Goofy.
 
-Goofy is a cartoon character created by The Walt Disney Company. 
+Goofy is a cartoon character created by The Walt Disney Company as a sidekick to Mickey Mouse. 
 He is a tall, anthropomorphic dog who typically wears a turtle neck and vest, with pants, shoes, white gloves, and a tall hat originally designed as a rumpled fedora. 
 Goofy is a close friend of Mickey Mouse and Donald Duck, and is Max Goof's father. 
 He is normally characterized as hopelessly clumsy and dim-witted, yet this interpretation is not always definitive; occasionally, Goofy is shown as intuitive and clever, albeit in his own unique, eccentric way.
