@@ -94,6 +94,8 @@ Finally, one can build and render a table, using vertical slashes (`|`) to separ
 | Latin      |     Stultus |
 
 
+Pippo's sun is Max Goof.
+
 
 ## Additional features on GitHub
 
@@ -114,6 +116,7 @@ int main()
 
 Lists can be created with tickable items by adding a whitespace and square brackets after the item symbol, (e.g. `- [ ] This needs to be done`). Items can be ticked by adding an x inside the brackets, or simply clicking on the rendered doc:
 - [ ] This needs to be done
+
 - [x] This has been done
       
 There's much more, you can find out about it in the [official doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
