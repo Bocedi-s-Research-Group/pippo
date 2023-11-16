@@ -14,6 +14,7 @@ He is normally characterized as hopelessly clumsy and dim-witted, yet this inter
 
 
 
+
 ![Alt text: A graffiti representing Pippo in Innsbruck](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Graffiti_Karmelitergasse_Innsbruck_01.jpg/800px-Graffiti_Karmelitergasse_Innsbruck_01.jpg?20220801222727)
 
 *A graffiti representing Pippo in Innsbruck, Germany (picture taken by Wikipedia user Luftschiffhafen).*
