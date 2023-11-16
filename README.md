@@ -12,6 +12,8 @@ He is a tall, anthropomorphic dog who typically wears a turtle neck and vest, wi
 Goofy is a close friend of Mickey Mouse and Donald Duck, and is Max Goof's father. 
 He is normally characterized as hopelessly clumsy and dim-witted, yet this interpretation is not always definitive; occasionally, Goofy is shown as intuitive and clever, albeit in his own unique, eccentric way.
 
+
+
 ![Alt text: A graffiti representing Pippo in Innsbruck](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Graffiti_Karmelitergasse_Innsbruck_01.jpg/800px-Graffiti_Karmelitergasse_Innsbruck_01.jpg?20220801222727)
 
 *A graffiti representing Pippo in Innsbruck, Germany (picture taken by Wikipedia user Luftschiffhafen).*
