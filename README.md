@@ -110,15 +110,10 @@ int main()
 }
 ```
 
-GitHub offers shortcut links to issues and pull requests, by writing a hashtag followed by the issue number: #2
-
 Lists can be created with tickable items by adding a whitespace and square brackets after the item symbol, (e.g. `- [ ] This needs to be done`). Items can be ticked by adding an x inside the brackets, or simply clicking on the rendered doc:
 - [ ] This needs to be done
 - [x] This has been done
-
-These two features can be combined to quickly refer to an issue and track its status:
-- [ ] #2
-
+      
 There's much more, you can find out about it in the [official doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## R Markdown
@@ -126,4 +121,4 @@ There's much more, you can find out about it in the [official doc](https://docs.
 R supports its own form of Markdown, aptly called R Markdown.
 R Markdown combines classic Markdown with R code blocks, which can be directly run as the document is being run to produce figures or analyses.
 There are also some extra features, for example supporting LateX-style equations rendering.
-This is not the place to teach R Markdown, but if you want to learn more, head to [the official doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+This is not the place to teach R Markdown, but if you want to learn more, head to [the official doc](https://rmarkdown.rstudio.com/).
