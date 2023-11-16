@@ -13,6 +13,8 @@ Goofy is a close friend of Mickey Mouse and Donald Duck, and is Max Goof's fathe
 He is normally characterized as hopelessly clumsy and dim-witted, yet this interpretation is not always definitive; occasionally, Goofy is shown as intuitive and clever, albeit in his own unique, eccentric way.
 
 
+asdfghj.
+
 
 ![Alt text: A graffiti representing Pippo in Innsbruck](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Graffiti_Karmelitergasse_Innsbruck_01.jpg/800px-Graffiti_Karmelitergasse_Innsbruck_01.jpg?20220801222727)
 
@@ -81,7 +83,8 @@ Finally, one can build and render a table, using vertical slashes (`|`) to separ
 | French     |       Dingo |
 | Turkish    |        Gufi |
 | Portuguese |      Pateta |
-| Latin      |     Stultus |
+| Latin       |
+     Stultus |
 ```
 
 | Language   | Name        |
