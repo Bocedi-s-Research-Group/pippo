@@ -4,6 +4,8 @@ Example directory to demonstrate using Git &amp; GitHub to the Bocedi group, pre
 # About Pippo
 
 
+Thank you Théo! This is great :-)
+
 Pippo (short for Filippo) is the italian name of the character Goofy. 
 Extract from the [Wikipedia article](https://en.wikipedia.org/wiki/Goofy) about Goofy.
 
@@ -111,6 +113,8 @@ int main()
   return 0;
 }
 ```
+
+[Insert fun edit here :)]
 
 Lists can be created with tickable items by adding a whitespace and square brackets after the item symbol, (e.g. `- [ ] This needs to be done`). Items can be ticked by adding an x inside the brackets, or simply clicking on the rendered doc:
 - [ ] This needs to be done
