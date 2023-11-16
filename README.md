@@ -94,7 +94,7 @@ Finally, one can build and render a table, using vertical slashes (`|`) to separ
 | Latin      |     Stultus |
 
 
-Pippo's sun is Max Goof.
+Pippo's son is Max Goof.
 
 
 ## Additional features on GitHub
