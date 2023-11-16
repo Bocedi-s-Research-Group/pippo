@@ -4,6 +4,8 @@ Example directory to demonstrate using Git &amp; GitHub to the Bocedi group, pre
 # About Pippo
 *Modify this text with your favourite text editor, then share your proposed changes with Git.*
 
+Thank you Théo! This is great :-)
+
 Pippo (short for Filippo) is the italian name of the character Goofy. 
 Extract from the [Wikipedia article](https://en.wikipedia.org/wiki/Goofy) about Goofy.
 
