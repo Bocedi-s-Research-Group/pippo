@@ -124,3 +124,5 @@ R supports its own form of Markdown, aptly called R Markdown.
 R Markdown combines classic Markdown with R code blocks, which can be directly run as the document is being run to produce figures or analyses.
 There are also some extra features, for example supporting LateX-style equations rendering.
 This is not the place to teach R Markdown, but if you want to learn more, head to [the official doc](https://rmarkdown.rstudio.com/).
+
+## Done
